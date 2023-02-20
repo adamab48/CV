@@ -1,27 +1,23 @@
 {
-  "name": "Samed Duzcay",
+  "name": "Adam Abichou",
   "profession": "Software Engineer",
-  "summary": "A confident, self-motivated software engineer with 6 years of experience in software development. A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills.",
-  "mail": "samedduzcay@gmail.com",
+  "summary": "Passionate software engineering student with an enthusiasm for DevOps, Cloud Technologies, and hardware tinkering. Excels at using technology to solve real-world problems.",
+  "mail": "adam.abichou@enetcom.u-sfax.tn",
   "address": {
-    "title": "Istanbul, Turkey",
-    "url": "https://www.google.com.tr/maps/@41.0847699,29.0492408,16.39z"
+    "title": "Zarzis ,Tunisia",
+    "url": "https://goo.gl/maps/6KDqM9LzWHGsEvWn6"
   },
   "personal_site": {
-    "title": "smddzcy.com",
-    "url": "https://smddzcy.com/"
+    "title": "adamabichou.me",
+    "url": "http://adamabichou.me/"
   },
   "github": {
-    "title": "github.com/smddzcy",
-    "url": "https://github.com/smddzcy"
+    "title": "https://github.com/adamab48",
+    "url": "https://github.com/adamab48"
   },
   "linkedin": {
-    "title": "linkedin.com/in/smddzcy",
-    "url": "https://www.linkedin.com/in/smddzcy"
-  },
-  "hackerrank": {
-    "title": "hackerrank.com/smddzcy",
-    "url": "https://www.hackerrank.com/smddzcy"
+    "title": "https://www.linkedin.com/in/adam-abichou/",
+    "url": "https://www.linkedin.com/in/adam-abichou/"
   },
   "google_analytics": "UA-43755905-9"
 }

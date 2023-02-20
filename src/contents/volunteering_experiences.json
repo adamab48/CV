@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "organization": "Google Developer Student Club National Engineering School of Electronics and Telecoms of Sfax",
+    "role": "Cloud and DevOps Lead",
+    "date": "09/2022 - Present",
+    "location": "Sfax ,Tunisia",
+    "description": "Providing weekly workshop sessions on Cloud and DevOps Technologies , Organizing events (DevFest Sfax,First Ever CTF in Sfax) ,Giving back to the community , Managing the team"
+  },
+{
+  "organization": "Google Developer Student Club National Engineering School of Electronics and Telecoms of Sfax",
+  "role": "Marketing Team Lead",
+  "date": "09/2021 - 09/2022",
+  "location": "Sfax ,Tunisia",
+  "description": "Planning and executing marketing campaigns , Managing social media accounts , Creating content , Designing graphics , Video Editing , Photography , Managing the team"
+},{
+  "organization": "AJIZ Association of Young Engineers in Zarzis",
+  "role": "Media Team Member",
+  "date": "09/2020 - Present",
+  "location": "Zarzis ,Tunisia",
+  "description": "Social Media Managment , Content Creation , Video Editing , Graphic Design , Photography"
+}
+]

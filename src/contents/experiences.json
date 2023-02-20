@@ -1,64 +1,9 @@
 [{
-  "company": "Infoset",
-  "role": "Co-Founder",
-  "date": "01/2020 - Present",
-  "location": "Istanbul, Turkey",
+  "company": "Miral E-Motors",
+  "role": "R&D Embedded Sofrware Engineering Intern",
+  "date": "2021",
+  "location": "Zarzis, Tunisia",
   "description_bullets": [
-    "Building advanced communication and marketing solutions for businesses: <a href=\"https://infoset.app/\" target=\"_blank\" title=\"cloud call center, sales management, customer support\">https://infoset.app/</a>"
-  ]
-}, {
-  "company": "Freelance",
-  "role": "Software Engineer",
-  "date": "02/2019 - 01/2020",
-  "description_bullets": [
-    "Helped numerous companies including Christian Dior, L'Oreal, EasyKnock as a contractor software engineer / software architect."
-  ]
-}, {
-  "company": "Lisa AI",
-  "role": "Co-Founder",
-  "date": "09/2018 - 02/2019",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Built parts of the mobile app of Lisa (with React Native). ",
-    "Built parts of the backend architecture and big-data infrastructure using Hadoop, HBase, Phoenix, Spark."
-  ]
-}, {
-  "company": "Pisano",
-  "role": "Lead Software Engineer",
-  "date": "09/2017 - 11/2018",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Designed the architecture of, built (with Scala), and deployed Pisano Analytics.",
-    "Organized the first Pisano Hackathon. (https://hackathon.pisano.co/)",
-    "Led the web product team for 5 months. Designed the new architecture of <a href=\"https://www.pisano.co/en/widget-channels/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Pisano Web Widget</a> and built most of the production system.",
-    "Extensively used ES6/ES7, React, Redux, Redux-Saga."
-  ]
-}, {
-  "company": "Google",
-  "role": "Software Engineering Intern",
-  "date": "06/2017 - 09/2017",
-  "location": "Zürich, Switzerland",
-  "description_bullets": [
-    "Built and tested the backend of a mid-size product feature.",
-    "Built a pipeline to collect user statistics and do data analysis."
-  ]
-}, {
-  "company": "Pisano",
-  "role": "Software Engineer",
-  "date": "06/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Full-stack web development using Ruby on Rails, AngularJS, CoffeeScript, HTML5, LESS.",
-    "Worked in a team-based development environment using agile methodologies like Kanban and Scrum.",
-    "Built, tested and successfully launched the key web product Pisano Web Widget."
-  ]
-}, {
-  "company": "Boğaziçi University Entrepreneurship Center",
-  "role": "Development Team Leader",
-  "date": "09/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Was in charge of a team of 6 people.",
-    "Built and deployed the new web application of the entrepreneurship center called \"Bright\" using PHP (Laravel) and JS (ES6)."
+    "Developed a geolocation system using a raspberry pi and a GPS module to track the location of the vehicle in real time using the MQTT protocol.<br> Keywords : Raspberry Pi , Microcontroller , UART , Embedded Systems , GPS , MQTT."
   ]
 }]

@@ -1,16 +1,11 @@
 [{
-  "name": "Boğaziçi University",
-  "degree": "M.S. Computer Engineering",
-  "date": "09/2019 - Present",
-  "description": ""
+  "name": "National School of Electronics and Telecoms of Sfax",
+  "degree": "Computer Engineering",
+  "date": "09/2021 - Present",
+  "description": "Keywords : Algorithms , Data Structures , Compter Architecture , Operating Systems , Databases , Networks , OOP"
 }, {
-  "name": "Boğaziçi University",
-  "degree": "B.S. Computer Engineering",
-  "date": "09/2015 - 06/2019",
-  "description": "GPA: 3.80. Rank in class: 2nd out of 100+ students. Member of <a href=\"http://compec.boun.edu.tr/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">COMPEC (Boğaziçi University IT Club)</a> and <a href=\"http://www.budak.boun.edu.tr\" target=\"_blank\">BÜDAK (Boğaziçi University Mountaineering Club)</a>. Founding member of BÜGAK (Boğaziçi University Futurism Club)."
-}, {
-  "name": "The University of Texas at Austin",
-  "degree": "B.S. Computer Science",
-  "date": "01/2018 - 05/2018",
-  "description": "Exchange student for the spring semester. Attended <a href=\"http://energyolympiad.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Longhorn Energy Summit</a> and <a href=\"https://cns.utexas.edu/tides/undergraduate/events-workshops/science-sprints\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Science Sprint</a>."
+  "name": "Nabeul Preparatory Engineering Institute",
+  "degree": "Pre-Engineering Studies",
+  "date": "09/2019 - 06/2021",
+  "description": "Rank 321 out of 667 in the 2021 Entry to Engineering Schools National Exam <br> Keywords : Linear Algerba , Avanced Calculus , Control Systems , Mechanical Engineering , Physics"
 }]
