@@ -48,3 +48,4 @@ jobs:
         uses: actions/deploy-pages@v1
         with:
           name: Static
+          artifact-name: Static
