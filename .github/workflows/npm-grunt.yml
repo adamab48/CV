@@ -47,5 +47,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
         with:
-          name: Static
-          artifact-name: Static
+          artifact_name: Static
