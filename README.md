@@ -7,7 +7,7 @@
 
 A simple, modern CV / resume template. Click [here](https://smddzcy.com/cv/) to see an example.
 
-## Creating Your CV
+## Creating Your C
 
 (You need `npm` in order to build the project. If it's not installed, install npm from [here](https://www.npmjs.com/get-npm))
 
