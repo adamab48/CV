@@ -1,0 +1,11 @@
+services:
+  cv:
+    image: adamab/cv:latest
+    restart: always
+    container_name: CV
+    expose:
+      - 80
+networks:
+  default:
+    external:
+      name: traefik
