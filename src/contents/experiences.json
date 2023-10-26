@@ -1,4 +1,22 @@
-[{
+[
+  {
+    "company": "Omegup",
+    "role": "DevOps Engineering Intern",
+    "date": "2023",
+    "location": "Zarzis, Tunisia",
+    "description_bullets": [
+
+"Integrated Testing into Continuous Integration (CI) Pipeline, ensuring robust code delivery."
+,
+"Utilized Linting Tools (ESLint and SonarQube) for Comprehensive Code Scanning, enhancing code quality and maintainability.",
+"Streamlined Deployment Workflow by Containerizing the Application Stack with Docker, reducing setup complexities.",
+"Standardized Multi-Website Deployment onto a single VPS with Reverse Proxies (Nginx and Traefik), improving resource utilization and performance.",
+"Implemented Comprehensive Monitoring with Prometheus, Grafana, and UptimeKuma, and deployed Node Exporters using Ansible for server monitoring.",
+"Set up Proactive Alerts via email and Slack notifications, ensuring prompt issue detection and resolution.",
+"Designed and Automated Workflow for the Preview Branch, covering building app components, pushing images to Docker Hub, and deploying the stack on a VPS environment."
+
+    ]
+  },{
   "company": "Miral E-Motors",
   "role": "R&D Embedded Sofrware Engineering Intern",
   "date": "2021",
